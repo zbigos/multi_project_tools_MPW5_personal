@@ -1,3 +1,8 @@
+# FORK SPECIFIC README
+run with `./multi_tool.py --clone-repos --create-openlane-config --copy-gds --copy-project --force-delete`
+
+build user_project_wrapper in caravel
+
 # Multi project tools
 
 A tool to help automate verification of sub projects and collect and harden them into the final submission.
